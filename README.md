@@ -1,0 +1,1 @@
+This is the repository containing the exercises accompanying the selenium course.
